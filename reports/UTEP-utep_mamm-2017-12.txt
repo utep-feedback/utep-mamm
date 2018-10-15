@@ -1,0 +1,105 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 250
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 28
+	Country: Canada ; Times: 1
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+	Country: United Kingdom ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-26 ; Times: 2
+	Date: 2017-12-31 ; Times: 4
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-11 ; Times: 15
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-05 ; Times: 2
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-02 ; Times: 2
+	Date: 2017-12-18 ; Times: 1
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Phoenix Zoo Maricopa County" ; Times: 1
+	Query: "h 8289" ; Times: 1
+	Query: "Phoenix Zoo" ; Times: 7
+	Query: "genus:neotoma county:&#34;grant&#34;" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "genus:sigmodon stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "catalognumber:642" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "Alamogordo Zoo" ; Times: 1
+	Query: "El Paso Zoo El Paso County Texas" ; Times: 3
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "county:&#34;Ward&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;tennessee&#34;" ; Times: 2
+	Query: "El Paso Zoo Texas" ; Times: 2
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "W. W. Brown 1914" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 674 download events in this period)
+Total number of records downloaded: 989
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: United Kingdom ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-27 ; Times: 6
+	Date: 2017-12-26 ; Times: 8
+	Date: 2017-12-11 ; Times: 2
+	Date: 2017-12-20 ; Times: 3
+	Date: 2017-12-04 ; Times: 2
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-31 ; Times: 3
+	Date: 2017-12-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sylvilagus audubonii mappable:1" ; Times: 2
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Sciurus carolinensis mappable:1" ; Times: 1
+	Query: "Zapus princeps mappable:1" ; Times: 1
+	Query: "Lepus townsendii mappable:1" ; Times: 1
+	Query: "Microtus pinetorum mappable:1" ; Times: 1
+	Query: "Tamiasciurus hudsonicus mappable:1" ; Times: 1
+	Query: "Odocoileus hemionus mappable:1" ; Times: 1
+	Query: "Microtus ochrogaster" ; Times: 1
+	Query: "Zapus hudsonius mappable:1" ; Times: 1
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Callospermophilus lateralis" ; Times: 1
+	Query: "Sylvilagus nuttallii mappable:1" ; Times: 1
+	Query: "sorex monticolus" ; Times: 2
+	Query: "sorex palustris" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "Sciurus niger mappable:1" ; Times: 1
+	Query: "Microtus longicaudus" ; Times: 1
+	Query: "sylvilagus audubonii" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys year &gt;= 1970 year &lt;= 2000 mappable:1" ; Times: 1
+	Query: "Mustela frenata mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Odocoileus virginianus mappable:1" ; Times: 1
+	Query: "Sylvilagus floridanus mappable:1" ; Times: 1
+
+
+End of report.
