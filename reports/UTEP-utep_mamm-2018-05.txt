@@ -1,0 +1,124 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 80
+Number of records retrieved in searches: 344
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 15
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: India ; Times: 1
+	Country: United States ; Times: 50
+	Country: China ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-04 ; Times: 12
+	Date: 2018-05-16 ; Times: 8
+	Date: 2018-05-02 ; Times: 3
+	Date: 2018-05-10 ; Times: 11
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-17 ; Times: 7
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 14
+	Date: 2018-05-29 ; Times: 5
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-03 ; Times: 5
+	Date: 2018-05-21 ; Times: 2
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 2
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "catalognumber:8318 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34; Ursus americanus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1970 year &lt;= 1979 institutioncode:UTEP" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vicugna" ; Times: 1
+	Query: "pan troglodytes" ; Times: 6
+	Query: "Macropus rufus " ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1930 year &lt;= 1939 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:nasua genus:Nasua mappable:1" ; Times: 1
+	Query: "vntype:specimen class:mammalia preparations:skeletal hasmedia:1" ; Times: 1
+	Query: "Lasiurus cinereus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "chinchilla" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 1
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "catalognumber:3113 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:lervia genus:Ammotragus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Ammotragus lervia mappable:1" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "order:Chiroptera AND hastypestatus:1 AND NOT (MSB)" ; Times: 2
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fuscipes genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:UTEP" ; Times: 1
+	Query: "Ursus americanus texas" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen (Pan troglodytes)" ; Times: 1
+	Query: "specificepithet:auratus genus:Mesocricetus mappable:1" ; Times: 6
+	Query: "specificepithet:lervia genus:Ammotragus mappable:1" ; Times: 6
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 4
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:UTEP" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1960 year &lt;= 1969 institutioncode:UTEP" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 12
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1178 download events in this period)
+Total number of records downloaded: 1479
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-02 ; Times: 1
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-28 ; Times: 1
+	Date: 2018-05-21 ; Times: 1
+	Date: 2018-05-23 ; Times: 1
+	Date: 2018-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 2
+	Query: "macropus rufus" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vicugna" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+
+
+End of report.
