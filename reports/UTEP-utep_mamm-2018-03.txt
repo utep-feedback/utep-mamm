@@ -1,0 +1,249 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 401
+Number of records retrieved in searches: 1452
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 23
+	Country: United Kingdom ; Times: 18
+	Country: China ; Times: 4
+	Country: Argentina ; Times: 6
+	Country: United States ; Times: 334
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 37
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-12 ; Times: 1
+	Date: 2018-03-11 ; Times: 2
+	Date: 2018-03-27 ; Times: 87
+	Date: 2018-03-30 ; Times: 14
+	Date: 2018-03-19 ; Times: 3
+	Date: 2018-03-01 ; Times: 17
+	Date: 2018-03-02 ; Times: 22
+	Date: 2018-03-03 ; Times: 10
+	Date: 2018-03-04 ; Times: 2
+	Date: 2018-03-05 ; Times: 23
+	Date: 2018-03-28 ; Times: 12
+	Date: 2018-03-29 ; Times: 18
+	Date: 2018-03-26 ; Times: 91
+	Date: 2018-03-09 ; Times: 3
+	Date: 2018-03-25 ; Times: 9
+	Date: 2018-03-22 ; Times: 5
+	Date: 2018-03-23 ; Times: 3
+	Date: 2018-03-20 ; Times: 22
+	Date: 2018-03-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "Myocastoridae" ; Times: 1
+	Query: "genus:Lasiurus specificepithet:borealis" ; Times: 2
+	Query: "genus:Crocuta specificepithet:crocuta" ; Times: 2
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 2
+	Query: "genus:Macaca country:&#34;United States&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:narica genus:Nasua" ; Times: 1
+	Query: "catalognumber:3829 institutioncode:UTEP" ; Times: 2
+	Query: "genus:Dipodomys specificepithet:spectabilis" ; Times: 2
+	Query: "genus:Lepus specificepithet:californicus" ; Times: 2
+	Query: "Conepatus" ; Times: 4
+	Query: "genus:Centurio specificepithet:senex" ; Times: 5
+	Query: "genus:Lasiurus specificepithet:cinereus" ; Times: 2
+	Query: "genus:Natalus specificepithet:stramineus" ; Times: 2
+	Query: "specificepithet:pictus genus:Liomys" ; Times: 1
+	Query: "specificepithet=taurinus" ; Times: 2
+	Query: "8221" ; Times: 1
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "genus:Carollia specificepithet:castanea" ; Times: 2
+	Query: "catalognumber:368 institutioncode:UTEP" ; Times: 2
+	Query: "genus:Neotoma specificepithet:floridana" ; Times: 5
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 2
+	Query: "panthera tigris tigris" ; Times: 1
+	Query: "genus:Lasionycteris month &lt;= 2" ; Times: 1
+	Query: "specificepithet:teguina genus:Scotinomys" ; Times: 1
+	Query: "genus:Puma specificepithet:concolor" ; Times: 5
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "specificepithet:griseus genus:sciurus" ; Times: 2
+	Query: "genus:Heteromys specificepithet:desmarestianus" ; Times: 2
+	Query: "specificepithet:nasua genus:Nasua" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 8
+	Query: "order:Rodentia county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1975" ; Times: 3
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "genus:Mesocricetus specificepithet:auratus" ; Times: 5
+	Query: "genus:Lontra specificepithet:canadensis" ; Times: 2
+	Query: "specificepithet:mexicana genus:Neotoma" ; Times: 1
+	Query: "genus:Myotis specificepithet:auriculus" ; Times: 5
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "specificepithet:nigripes genus:mustela year&gt;=1900" ; Times: 1
+	Query: "genus:Panthera specificepithet:leo" ; Times: 5
+	Query: "specificepithet:mexicanus genus:Peromyscus" ; Times: 1
+	Query: "genus:Erinaceus specificepithet:europaeus" ; Times: 10
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "genus:Noctilio specificepithet:leporinus" ; Times: 5
+	Query: "specificepithet:taurinus" ; Times: 5
+	Query: "vntype:specimen specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:taurinus " ; Times: 51
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "genus:Erythrocebus specificepithet:patas" ; Times: 7
+	Query: "genus:Myotis specificepithet:thysanodes" ; Times: 2
+	Query: "genus:Baiomys specificepithet:taylori" ; Times: 2
+	Query: "specificepithet:townsendii genus:Scapanus family:Talpidae order:Soricomorpha" ; Times: 1
+	Query: "genus:Vampyrodes specificepithet:caraccioli" ; Times: 5
+	Query: "genus:erethizon stateprovince:&#34;texas&#34; (ranch)" ; Times: 1
+	Query: "rucker canyon" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "catalognumber:8340 institutioncode:UTEP" ; Times: 1
+	Query: "genus:Choeronycteris specificepithet:mexicana" ; Times: 5
+	Query: "Taurinus" ; Times: 1
+	Query: "specificepithet:nigripes genus:mustela" ; Times: 1
+	Query: "specificepithet:tajacu genus:Pecari" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 2
+	Query: "genus:Castor specificepithet:canadensis" ; Times: 2
+	Query: "Cercopithecidae" ; Times: 2
+	Query: "felis catus" ; Times: 2
+	Query: "genus:Lasionycteris specificepithet:noctivagans" ; Times: 2
+	Query: "specificepithet:tetradactyla genus:Tamandua" ; Times: 1
+	Query: "genus:conepatus" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34; Ursus americanus" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "genus:Balantiopteryx specificepithet:plicata" ; Times: 2
+	Query: "Mustela nigripes year&gt;=1990 year&lt;=2015 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:Perimyotis specificepithet:subflavus" ; Times: 5
+	Query: "genus:Pteronotus specificepithet:parnellii" ; Times: 2
+	Query: "specificepithet:concolor genus:Puma" ; Times: 1
+	Query: "specificepithet:desmarestianus genus:Heteromys" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:palustris" ; Times: 2
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 8
+	Query: "chinchilla" ; Times: 3
+	Query: "Panthera tigris tigris" ; Times: 2
+	Query: "genus:Microtus specificepithet:ochrogaster" ; Times: 2
+	Query: "nyctinomops macrotis vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:aquaticus" ; Times: 5
+	Query: "genus:Mandrillus specificepithet:sphinx" ; Times: 5
+	Query: "genus:Macrotus specificepithet:californicus" ; Times: 2
+	Query: "genus:erethizon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Ateles specificepithet:geoffroyi" ; Times: 8
+	Query: "genus:Nasua specificepithet:narica" ; Times: 6
+	Query: "specificepithet:musculus genus:Mus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 10
+	Query: "genus:Nyctinomops specificepithet:macrotis" ; Times: 5
+	Query: "genus:Felis specificepithet:catus" ; Times: 5
+	Query: "genus:Leptonycteris specificepithet:yerbabuenae" ; Times: 5
+	Query: "genus:Panthera specificepithet:pardus" ; Times: 2
+	Query: "pan troglodytes" ; Times: 1
+	Query: "genus:Macaca specificepithet:mulatta" ; Times: 7
+	Query: "genus:Myotis specificepithet:ciliolabrum" ; Times: 2
+	Query: "Stenodermatinae" ; Times: 1
+	Query: "specificepithet:perspicillata genus:Carollia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Myotis specificepithet:evotis" ; Times: 2
+	Query: "specificepithet:nigripes genus:Mustela" ; Times: 1
+	Query: "genus:Microtus specificepithet:pinetorum" ; Times: 2
+	Query: "specificepithet=taurinus " ; Times: 24
+	Query: "macaca" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis institutioncode:UTEP" ; Times: 1
+	Query: "genus:Choeroniscus specificepithet:godmani" ; Times: 5
+	Query: "genus:Sturnira specificepithet:ludovici" ; Times: 5
+	Query: "specificepithet:vicugna genus:Vicugna" ; Times: 1
+	Query: "specificepithet:leuconotus genus:Conepatus" ; Times: 1
+	Query: "Panthera tigris " ; Times: 1
+	Query: "scientificname:mustela nigripes" ; Times: 2
+	Query: "genus:Carollia specificepithet:brevicauda" ; Times: 1
+	Query: "genus:Macaca specificepithet:fascicularis" ; Times: 7
+	Query: "genus:Dasypus specificepithet:novemcinctus" ; Times: 5
+	Query: "genus:Pan specificepithet:troglodytes" ; Times: 7
+	Query: "genus:Desmodus specificepithet:rotundus" ; Times: 1
+	Query: "genus:Aplodontia specificepithet:rufa" ; Times: 2
+	Query: "specificepithet:aztecus genus:Peromyscus" ; Times: 1
+	Query: "genus:Macropus specificepithet:rufus" ; Times: 5
+	Query: "specificepithet:latrans genus:Canis (urban OR city)" ; Times: 1
+	Query: "genus:Oryctolagus specificepithet:cuniculus" ; Times: 7
+	Query: "Hominidae" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 46 (out of 1284 download events in this period)
+Total number of records downloaded: 651
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 1
+	Country: Poland ; Times: 3
+	Country: United States ; Times: 17
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-19 ; Times: 3
+	Date: 2018-03-24 ; Times: 3
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-23 ; Times: 2
+	Date: 2018-03-15 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 3
+	Date: 2018-03-06 ; Times: 3
+	Date: 2018-03-29 ; Times: 16
+	Date: 2018-03-26 ; Times: 2
+	Date: 2018-03-27 ; Times: 3
+	Date: 2018-03-13 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "family:Felidae" ; Times: 1
+	Query: "specificepithet:perspicillata genus:Carollia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "specificepithet:toltecus genus:Artibeus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34; Ursus americanus" ; Times: 3
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "specificepithet:Rattus genus:Rattus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen family:Otariidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:spilogale" ; Times: 1
+	Query: "genus:Carollia country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 1
+	Query: "specificepithet:lilium genus:Sturnira country:&#34;Mexico&#34;" ; Times: 1
+	Query: "rodentia hasmass:1" ; Times: 3
+	Query: "genus:Sturnira country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "specificepithet:musculus genus:Mus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:lutris genus:Enhydra basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrotis genus:Nyctinomops stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Reithrodontomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Artibeus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Chinchilla order:Rodentia class:Mammalia" ; Times: 1
+	Query: "order:Cingulata preparations:skull" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "vntype:specimen order:Cetacea basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:Artibeus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:melanophrys genus:Peromyscus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:phaeotis genus:Artibeus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "neotoma leucodon" ; Times: 1
+
+
+End of report.
