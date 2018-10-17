@@ -1,0 +1,130 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 353
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 37
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-04 ; Times: 3
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 3
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-25 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-21 ; Times: 5
+	Date: 2018-06-20 ; Times: 4
+	Date: 2018-06-09 ; Times: 1
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-22 ; Times: 2
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-11 ; Times: 4
+	Date: 2018-06-13 ; Times: 3
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-16 ; Times: 2
+	Date: 2018-06-17 ; Times: 3
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis latrans new mexico Quay County" ; Times: 1
+	Query: "urocyon cinereoargenteus mexico" ; Times: 1
+	Query: "genus:noctilio stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys catalognumber:6569" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis year &gt;= 1990 year &lt;= 2000" ; Times: 1
+	Query: "Canis latrans new mexico McKinley County" ; Times: 1
+	Query: "archaeological" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "Canis latrans new mexico Mts" ; Times: 5
+	Query: "Puma concolor" ; Times: 4
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1930 year &lt;= 1939 institutioncode:UTEP" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "&#34;russell&#34; specificepithet:merriami genus:dipodomys" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "Canis latrans new mexico Otero County" ; Times: 1
+	Query: "crocidura fuliginosa" ; Times: 4
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Equus caballus" ; Times: 2
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "El Paso Zoo" ; Times: 4
+	Query: "specificepithet:leporinus genus:Noctilio country:&#34;Mexico&#34;" ; Times: 2
+	Query: "genus:Neotoma county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "recordedby:Audubon" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "specificepithet:bottae genus:Thomomys county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 2
+	Query: "beavers" ; Times: 2
+	Query: "specificepithet:merriami genus:dipodomys catalognumber:1150" ; Times: 1
+	Query: "Noctilio leporinus" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 24 (out of 1169 download events in this period)
+Total number of records downloaded: 625
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-07 ; Times: 2
+	Date: 2018-06-11 ; Times: 1
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-19 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-14 ; Times: 1
+	Date: 2018-06-13 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-25 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:lupus genus:Canis" ; Times: 1
+	Query: "bobcat" ; Times: 1
+	Query: "genus:blarina stateprovince:&#34;kansas&#34;" ; Times: 1
+	Query: "mammal Colima" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "vntype:specimen specificepithet:concolor genus:puma" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "puma concolor mexico" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "Canis latrans new mexico" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "order:CHIROPTERA stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "antilocapra" ; Times: 1
+	Query: "Nyctinomops" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Bobcat" ; Times: 1
+	Query: "Microtus" ; Times: 1
+
+
+End of report.
