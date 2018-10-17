@@ -1,0 +1,125 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 189
+Number of records retrieved in searches: 5273
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Israel ; Times: 9
+	Country: Australia ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 151
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 5
+	Country: Sri Lanka ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-10 ; Times: 2
+	Date: 2018-08-13 ; Times: 5
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-31 ; Times: 3
+	Date: 2018-08-02 ; Times: 1
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-21 ; Times: 33
+	Date: 2018-08-20 ; Times: 113
+	Date: 2018-08-05 ; Times: 2
+	Date: 2018-08-14 ; Times: 3
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-29 ; Times: 3
+	Date: 2018-08-28 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "felis catus" ; Times: 3
+	Query: "nasua nasua" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum" ; Times: 2
+	Query: "genus:Peromyscus year &gt;= 2000 year &lt;= 2018 institutioncode:UTEP" ; Times: 1
+	Query: "parastrellus hesperus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "null" ; Times: 122
+	Query: "parastrellus hesperus" ; Times: 1
+	Query: "Puma concolor" ; Times: 21
+	Query: "Puma concolor " ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon county:&#34;El Paso&#34; preparations:skull" ; Times: 1
+	Query: "hair samples" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "Conepatus" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon stateprovince:&#34;New Mexico&#34; preparations:skull" ; Times: 1
+	Query: "parastrellus hesperus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "UTEP 3516" ; Times: 2
+	Query: "specificepithet:nigripes genus:Mustela stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Dipodomys merriami 1989" ; Times: 1
+	Query: "ciudad juárez" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "Odocoileus virginianus mexico" ; Times: 1
+	Query: "campbelli" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 4
+	Query: "UTEP 2833" ; Times: 2
+	Query: "specificepithet:mexicana genus:Choeronycteris stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "UTEP 6126" ; Times: 2
+	Query: "UTEP 6127" ; Times: 2
+	Query: "Felis catus" ; Times: 2
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "Panthera leo mappable:1" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1416 download events in this period)
+Total number of records downloaded: 400
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 1
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 3
+	Date: 2018-08-22 ; Times: 2
+	Date: 2018-08-20 ; Times: 1
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-23 ; Times: 4
+	Date: 2018-08-14 ; Times: 1
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sigmodon fulviventer" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Mexico&#34;" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "genus:Peromyscus year &gt;= 2000 year &lt;= 2018 institutioncode:UTEP" ; Times: 1
+	Query: "ursus arctos" ; Times: 1
+	Query: "puma concolor" ; Times: 4
+	Query: "dipodomys agilis" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 2
+	Query: "lynx rufus" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 1
+	Query: "myotis auriculus" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.
