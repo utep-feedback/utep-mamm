@@ -1,0 +1,121 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 307
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Lithuania ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 6
+	Country: Sri Lanka ; Times: 3
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 2
+	Date: 2018-07-11 ; Times: 2
+	Date: 2018-07-29 ; Times: 2
+	Date: 2018-07-09 ; Times: 2
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-04 ; Times: 6
+	Date: 2018-07-23 ; Times: 3
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 8
+	Date: 2018-07-01 ; Times: 8
+	Date: 2018-07-02 ; Times: 3
+	Date: 2018-07-03 ; Times: 16
+	Date: 2018-07-22 ; Times: 4
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-24 ; Times: 1
+	Date: 2018-07-20 ; Times: 15
+	Date: 2018-07-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:8330 institutioncode:UTEP" ; Times: 2
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:UTEP" ; Times: 1
+	Query: "&#34;Harris County&#34;" ; Times: 2
+	Query: "catalognumber:36 institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1930 year &lt;= 1939 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989 institutioncode:UTEP" ; Times: 1
+	Query: "catalognumber:8221 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1960 year &lt;= 1969 institutioncode:UTEP" ; Times: 1
+	Query: "genus:Eptesicus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 2000 year &lt;= 2009 institutioncode:UTEP" ; Times: 1
+	Query: "Puma concolor" ; Times: 13
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1930 year &lt;= 1939 institutioncode:UTEP" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "specificepithet:crawfordi genus:Notiosorex county:&#34;luna&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999 institutioncode:UTEP" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "specificepithet:attwateri genus:Peromyscus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon country:&#34;United States&#34; AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1980 year &lt;= 1989 institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1980 year &lt;= 1989 institutioncode:UTEP" ; Times: 1
+	Query: "Mustela frenata" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1990 year &lt;= 1999 institutioncode:UTEP" ; Times: 1
+	Query: "vntype:specimen specificepithet:lupus genus:Canis year &gt;= 1970 year &lt;= 1979 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2000 year &lt;= 2009 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:auriculus genus:Myotis county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "9524" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1990 year &lt;= 1999 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:audubonii genus:Sylvilagus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:palustris stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:californicus genus:Lepus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969 institutioncode:UTEP" ; Times: 1
+	Query: "catalognumber:8220 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979 institutioncode:UTEP" ; Times: 1
+	Query: "genus:Corynorhinus county:&#34;Grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil ) year &gt;= 1950 year &lt;= 1959 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 3
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis country:&#34;United States&#34; year &gt;= 1970 year &lt;= 1979 institutioncode:UTEP" ; Times: 2
+	Query: "vntype:specimen specificepithet:latrans genus:Canis year &gt;= 1950 year &lt;= 1959 institutioncode:UTEP" ; Times: 1
+	Query: "institutioncode:UTEP didelphis virginiana" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1960 year &lt;= 1969 institutioncode:UTEP" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 977 download events in this period)
+Total number of records downloaded: 13440
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 1
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "Chihuahua" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UTEP" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "Carollia perspicillata" ; Times: 1
+	Query: "institutioncode:UTEP didelphis virginiana" ; Times: 1
+	Query: "specificepithet:AURICULUS genus:MYOTIS" ; Times: 1
+
+
+End of report.
