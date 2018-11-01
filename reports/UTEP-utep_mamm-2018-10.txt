@@ -1,0 +1,228 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 157
+Number of records retrieved in searches: 906
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 143
+	Country: China ; Times: 1
+	Country: Botswana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 4
+	Date: 2018-10-05 ; Times: 2
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 5
+	Date: 2018-10-03 ; Times: 9
+	Date: 2018-10-04 ; Times: 19
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-23 ; Times: 1
+	Date: 2018-10-07 ; Times: 3
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-27 ; Times: 1
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-25 ; Times: 7
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-08 ; Times: 30
+	Date: 2018-10-09 ; Times: 5
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 5
+	Date: 2018-10-12 ; Times: 22
+	Date: 2018-10-11 ; Times: 12
+	Date: 2018-10-10 ; Times: 19
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:beldingi genus:Urocitellus" ; Times: 1
+	Query: "vntype:specimen specificepithet:aries genus:Ovis" ; Times: 1
+	Query: "harris hawk" ; Times: 2
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 3
+	Query: "specificepithet:beecheyi genus:Otospermophilus" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:rufa genus:Aplodontia" ; Times: 2
+	Query: "specificepithet:chinchilla genus:Chinchilla" ; Times: 3
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Chinchilla" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:leucurus genus:Cynomys" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:gunnisoni genus:Cynomys" ; Times: 1
+	Query: "specificepithet:castanops genus:Cratogeomys" ; Times: 1
+	Query: "specificepithet:variegatus genus:Otospermophilus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Ictidomys" ; Times: 8
+	Query: "specificepithet:ordii genus:Dipodomys county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "specificepithet:tridecemlineatus genus:Ictidomys" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 29
+	Query: "Chaetodipus hispidus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "chinchilla mammalia" ; Times: 3
+	Query: "specificepithet:arenarius genus:Geomys" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 4
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;utah&#34;" ; Times: 7
+	Query: "specificepithet:interpres genus:Ammospermophilus" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Cynomys" ; Times: 1
+	Query: "specificepithet:spilosoma genus:Xerospermophilus" ; Times: 1
+	Query: "specificepithet:spectabilis genus:Dipodomys" ; Times: 1
+	Query: "continent:North America Cervus elaphus" ; Times: 2
+	Query: "family:Erethizontidae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:venustus genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "specificepithet:geoffroyi genus:ateles country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "brachylagus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "genus:Onychomys county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(44.635320498358325,-88.68871610243627))&lt;49528" ; Times: 1
+	Query: "equestrian" ; Times: 1
+	Query: "specificepithet:taylori genus:Baiomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "UTEP 4555" ; Times: 2
+	Query: "UTEP 5218" ; Times: 2
+	Query: "genus:Tadarida county:&#34;Eddy&#34;" ; Times: 1
+	Query: "kinny" ; Times: 1
+	Query: "genus:Tamandua " ; Times: 2
+	Query: "dasypus novemcinctus year &gt;= 1971" ; Times: 1
+	Query: "UTEP 4348" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Brachylagus idahoensis mappable:1" ; Times: 1
+	Query: "taxidea taxus mexico" ; Times: 1
+	Query: "specificepithet:bursarius genus:Geomys" ; Times: 1
+	Query: "specificepithet:harrisii genus:Ammospermophilus" ; Times: 1
+	Query: "specificepithet:aberti genus:Sciurus" ; Times: 1
+	Query: "specificepithet:Evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus" ; Times: 7
+	Query: "Urocyon cinereoargenteus year &gt;= 1970" ; Times: 2
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 5
+	Query: "specificepithet:flavus genus:Perognathus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "puma concolor startdayofyear &lt;= 1970" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:elegans genus:Urocitellus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 4
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "j 808" ; Times: 1
+	Query: "nasua narica" ; Times: 2
+	Query: "Panthera leo" ; Times: 2
+	Query: "specificepithet:flaviventris genus:Marmota" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1300 download events in this period)
+Total number of records downloaded: 6280
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 54
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-31 ; Times: 2
+	Date: 2018-10-30 ; Times: 4
+	Date: 2018-10-23 ; Times: 3
+	Date: 2018-10-02 ; Times: 2
+	Date: 2018-10-03 ; Times: 2
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 4
+	Date: 2018-10-24 ; Times: 6
+	Date: 2018-10-25 ; Times: 4
+	Date: 2018-10-28 ; Times: 3
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-08 ; Times: 4
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-13 ; Times: 2
+	Date: 2018-10-12 ; Times: 1
+	Date: 2018-10-11 ; Times: 6
+	Date: 2018-10-10 ; Times: 9
+	Date: 2018-10-17 ; Times: 2
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 3
+	Date: 2018-10-14 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Perimyotis subflavus genus:Perimyotis" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 3
+	Query: "family:Felidae (Felis)" ; Times: 1
+	Query: "felis catus" ; Times: 1
+	Query: "Felidae" ; Times: 1
+	Query: "Ochotona princeps vntype:specimen" ; Times: 1
+	Query: "onychomys leucogaster AND new mexico" ; Times: 2
+	Query: "dipodomys microps" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys country:&#34;México&#34;" ; Times: 1
+	Query: "Chiroptera Oaxaca basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Corynorhinus" ; Times: 1
+	Query: "ovis canadensis" ; Times: 1
+	Query: "lynx rufus" ; Times: 2
+	Query: "genus:Peromyscus county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; continent:North America" ; Times: 1
+	Query: "order:chiroptera continent:america" ; Times: 1
+	Query: "genus:Myotis" ; Times: 2
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "skeleton of Lama" ; Times: 3
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "family:molossidae stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "Callospermophilus lateralis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:geoffroyi genus:ateles country:&#34;México&#34;" ; Times: 1
+	Query: "onychomys torridus AND arizona" ; Times: 1
+	Query: "Chiroptera Oaxaca" ; Times: 1
+	Query: "Lasionycteris noctivagans genus:Lasionycteris" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;chihuahua&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga" ; Times: 1
+	Query: "vntype:specimen genus:erethizon" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "order:Artiodactyla" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "specificepithet:venustus genus:dipodomys" ; Times: 1
+	Query: "spilogale gracilis" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; continent:North America" ; Times: 1
+	Query: "onychomys arenicola AND new mexico" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "Tadarida brasiliensis genus:Tadarida" ; Times: 1
+	Query: "taxidea taxus mexico" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "genus:Tamias OR Neotamias OR Eutamias" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(42.825504361125255,-75.76879422743627))&lt;339749" ; Times: 1
+	Query: "Tamias" ; Times: 1
+	Query: "Eptesicus fuscus genus:Eptesicus" ; Times: 1
+	Query: "vntype:specimen class:Mammalia county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis county:&#34;Socorro&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 7
+	Query: "order:Chiroptera stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "notiosorex crawfordi" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "family:vespertilionidae stateprovince:&#34;utah&#34;" ; Times: 1
+
+
+End of report.
