@@ -1,0 +1,172 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 485
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 84
+	Country: Unknown ; Times: 1
+	Country: Italy ; Times: 10
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-26 ; Times: 5
+	Date: 2019-01-19 ; Times: 4
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-17 ; Times: 3
+	Date: 2019-01-10 ; Times: 2
+	Date: 2019-01-11 ; Times: 9
+	Date: 2019-01-13 ; Times: 5
+	Date: 2019-01-02 ; Times: 1
+	Date: 2019-01-29 ; Times: 5
+	Date: 2019-01-28 ; Times: 9
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 2
+	Date: 2019-01-05 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 5
+	Date: 2019-01-25 ; Times: 5
+	Date: 2019-01-24 ; Times: 11
+	Date: 2019-01-08 ; Times: 8
+	Date: 2019-01-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:nuttallii genus:sylvilagus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UTEP 8454" ; Times: 1
+	Query: "specificepithet:minimus genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "genus:sigmodon stateprovince:&#34;chihuahua&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oryx" ; Times: 2
+	Query: "specificepithet:americanus genus:lepus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UTEP 794" ; Times: 2
+	Query: "macaca fascicularis" ; Times: 1
+	Query: "specificepithet:boylii genus:Peromyscus county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;jasper&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "UTEP 563" ; Times: 3
+	Query: "Puma concolor" ; Times: 1
+	Query: "family:canidae order:Carnivora preparations:skull hasmedia:1" ; Times: 4
+	Query: "specificepithet:quadrivittatus genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "cavia porcellus" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias" ; Times: 8
+	Query: "&#34;Panthera tigris&#34;" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 2
+	Query: "class:Mammalia county:&#34;chambers&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Liberty&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:porcellus genus:cavia hasmedia:1" ; Times: 1
+	Query: "&#34;Equus caballus&#34;" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:amoenus genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:cinereicollis genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:striatus genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leptonycteris nivalis" ; Times: 2
+	Query: "family:procyonidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "cervus axis" ; Times: 7
+	Query: "specificepithet:cinereicollis genus:tamias stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:townsendii genus:tamias institutioncode:UTEP" ; Times: 2
+	Query: "genus:Onychomys county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:mogollonensis genus:microtus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "taxidea taxus" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "UTEP 434" ; Times: 2
+	Query: "family:mustelidae order:Carnivora preparations:skull hasmedia:1" ; Times: 2
+	Query: "class:Mammalia county:&#34;panola&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "family:felidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "myocastor coypus" ; Times: 1
+	Query: "UTEP 3464" ; Times: 1
+	Query: "order:Carnivora preparations:Mandible hasmedia:1" ; Times: 1
+	Query: "lasiurus xanthinus" ; Times: 2
+	Query: "specificepithet:gapperi genus:myodes stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "specificepithet:californicus genus:lepus stateprovince:&#34;texas&#34;" ; Times: 4
+	Query: "specificepithet:rattus genus:rattus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UTEP 1239" ; Times: 1
+	Query: "genus:Onychomys county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;Catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:canipes genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "family:mephitidae order:Carnivora preparations:skull hasmedia:1" ; Times: 1
+	Query: "specificepithet:dorsalis genus:tamias institutioncode:UTEP" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "UTEP 1233" ; Times: 2
+	Query: "vntype:specimen specificepithet:fulviventer genus:Sigmodon country:&#34;Mexico&#34; hassex:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 962 download events in this period)
+Total number of records downloaded: 740
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: India ; Times: 1
+	Country: United States ; Times: 21
+	Country: Sweden ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 2
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-16 ; Times: 1
+	Date: 2019-01-17 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-11 ; Times: 6
+	Date: 2019-01-13 ; Times: 1
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-31 ; Times: 3
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:californicus genus:lepus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:sigmodon country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "class:Mammalia county:&#34;jasper&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "class:Mammalia county:&#34;chambers&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Liberty&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:perissodactyla" ; Times: 1
+	Query: "Neotoma mexicana" ; Times: 1
+	Query: "vntype:specimen genus:Choeronycteris family:Phyllostomidae order:Chiroptera class:Mammalia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:subflavus genus:Perimyotis mappable:1 year&gt;=1948 year&lt;=2019" ; Times: 1
+	Query: "genus:Alces year &gt;= 1989 year &lt;= 2018" ; Times: 1
+	Query: "class:Mammalia county:&#34;harris&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "genus:Dipodomys stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Corynorhinus townsendii year &gt;= 1948 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:lateralis genus:callospermophilus" ; Times: 1
+	Query: "class:Mammalia county:&#34;panola&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "specificepithet:fulviventer genus:Sigmodon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:rattus genus:rattus stateprovince:&#34;new mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis californicus year &gt;= 1948 year &lt;= 2019" ; Times: 1
+
+
+End of report.
