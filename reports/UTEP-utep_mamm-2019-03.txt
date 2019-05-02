@@ -1,0 +1,128 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 417
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 50
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 32
+	Country: United Kingdom ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-12 ; Times: 2
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-13 ; Times: 25
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-22 ; Times: 1
+	Date: 2019-03-25 ; Times: 8
+	Date: 2019-03-08 ; Times: 11
+	Date: 2019-03-18 ; Times: 7
+	Date: 2019-03-20 ; Times: 6
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-04 ; Times: 5
+	Date: 2019-03-14 ; Times: 4
+	Date: 2019-03-06 ; Times: 6
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "Utep mammals" ; Times: 1
+	Query: "panthera tigris mappable:1" ; Times: 1
+	Query: "skeleton genus:cratogeomys family:geomyidae order:rodentia class:MAMMALIA" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis county:&#34;eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Blarina brevicauda" ; Times: 1
+	Query: "specificepithet:yumanensis genus:Myotis stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "UTEP 504" ; Times: 2
+	Query: "Blarina" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Puma concolor mappable:1" ; Times: 19
+	Query: "genus:Mustela specificepithet:nigripes" ; Times: 1
+	Query: "&#34;peromyscus californicus&#34; california santa clara" ; Times: 2
+	Query: "class:Mammalia county:&#34;Concho&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:14 institutioncode:UTEP" ; Times: 2
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "specificepithet:castanops genus:cratogeomys stateprovince:&#34;new mexico&#34;" ; Times: 2
+	Query: "specificepithet:townsendii genus:Corynorhinus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "oreotragus" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "UTEP 200" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "genus:rattus stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "neovison vison" ; Times: 8
+	Query: "specificepithet:cinereus genus:Lasiurus county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:velifer genus:Myotis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:albigula genus:Neotoma county:&#34;catron&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:thysanodes genus:Myotis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "UTEP 3441" ; Times: 2
+	Query: "utep 1248" ; Times: 1
+	Query: "Panthera tigris mappable:1" ; Times: 12
+	Query: "specificepithet:tajacu genus:Pecari stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1281 download events in this period)
+Total number of records downloaded: 164
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 8
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 3
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "order:Primates haslength:1" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "specificepithet:vison genus:neovison" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "county:&#34;emery&#34; stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Concho&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Centurio senex" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "specificepithet:vison" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+
+
+End of report.
