@@ -1,0 +1,183 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 178
+Number of records retrieved in searches: 1301
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 141
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 4
+	Country: United Kingdom ; Times: 6
+	Country: Thailand ; Times: 18
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-23 ; Times: 6
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-24 ; Times: 81
+	Date: 2019-09-12 ; Times: 4
+	Date: 2019-09-20 ; Times: 5
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-13 ; Times: 4
+	Date: 2019-09-18 ; Times: 3
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-26 ; Times: 14
+	Date: 2019-09-03 ; Times: 8
+	Date: 2019-09-27 ; Times: 16
+	Date: 2019-09-25 ; Times: 9
+	Date: 2019-09-05 ; Times: 18
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus xanthinus haslength:1" ; Times: 1
+	Query: "Lasionycteris noctivagans haslength:1" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "Lasiurus cinereus haslength:1" ; Times: 1
+	Query: "Macrotus californicus haslength:1" ; Times: 1
+	Query: "specificepithet:Evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 3
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "nigripes Mustela" ; Times: 5
+	Query: "order:Carnivora locality:Mexico" ; Times: 1
+	Query: "mammals cerro gordo" ; Times: 1
+	Query: "Microtus pennsylvanicus 1980" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "institutioncode:UTEP AND Malaysia" ; Times: 1
+	Query: "bison Bison" ; Times: 1
+	Query: "genus:macrotus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1989" ; Times: 2
+	Query: "gbifdatasetid:c053c6ad-e590-4c69-a141-5fd9c8ebbe3c" ; Times: 1
+	Query: "genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1988" ; Times: 4
+	Query: "genus:myotis evotis stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Myotis thysanodes haslength:1" ; Times: 1
+	Query: "tututepec" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Myotis lucifugus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1972" ; Times: 12
+	Query: "Microtus pennsylvanicus 1972" ; Times: 3
+	Query: "vntype:specimen specificepithet:crawfordi genus:Notiosorex institutioncode:UTEP" ; Times: 1
+	Query: "Eptesicus fuscus haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1977" ; Times: 2
+	Query: "Peromyscus maniculatus 1978" ; Times: 2
+	Query: "Peromyscus maniculatus 1997" ; Times: 2
+	Query: "family:SCIURIDAE order:RODENTIA class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Peromyscus maniculatus 1974" ; Times: 5
+	Query: "Peromyscus maniculatus 1992" ; Times: 4
+	Query: "Antrozous pallidus haslength:1" ; Times: 1
+	Query: "Myotis evotis haslength:1" ; Times: 1
+	Query: "Jamiltepec" ; Times: 1
+	Query: "1816 turner" ; Times: 1
+	Query: "class:mammalia county:&#34;washington&#34; stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; year &gt;= 1969 year &lt;= 1969" ; Times: 1
+	Query: "Peromyscus maniculatus 1982" ; Times: 2
+	Query: "genus: Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "zooarchaeology" ; Times: 1
+	Query: "specificepithet:astutus genus:Bassariscus hasmass:1 haslength:1" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "Peromyscus maniculatus 1996" ; Times: 2
+	Query: "Myotis volans haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 2011" ; Times: 1
+	Query: "Myotis fortidens haslength:1" ; Times: 1
+	Query: "Leptonycteris yerbabuenae haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1979" ; Times: 4
+	Query: "Myotis ciliolabrum haslength:1" ; Times: 1
+	Query: "specificepithet:niger genus:sciurus order:rodentia class:mammalia stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Peromyscus maniculatus 1994" ; Times: 4
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "Peromyscus maniculatus 2012" ; Times: 1
+	Query: "genus:Macrotus county:&#34;imperial&#34; stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Artibeus jamaicensis haslength:1" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:evotis genus:myotis stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Nyctinomops macrotis haslength:1" ; Times: 1
+	Query: "juquila" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 36
+	Query: "Corynorhinus townsendii haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1973" ; Times: 4
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "cacahuatepec" ; Times: 1
+	Query: "Peromyscus maniculatus 1990" ; Times: 2
+	Query: "Myotis yumanensis haslength:1" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Peromyscus maniculatus 1980" ; Times: 6
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "Peromyscus maniculatus 1991" ; Times: 4
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "Peromyscus maniculatus 1981" ; Times: 4
+	Query: "Peromyscus maniculatus 1987" ; Times: 2
+	Query: "Leptonycteris nivalis haslength:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1073 download events in this period)
+Total number of records downloaded: 825
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Unknown ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 4
+	Date: 2019-09-27 ; Times: 4
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-09 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-06 ; Times: 2
+	Date: 2019-09-04 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Notiosorex" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "cacahuatepec" ; Times: 1
+	Query: "&#34;Neotoma floridana&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "order:Rodentia county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "juquila" ; Times: 1
+	Query: "Jamiltepec" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Myotis fortidens" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "tututepec" ; Times: 1
+	Query: "Microtus ochrogaster specificepithet:ochrogaster genus:Microtus" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis stateprovince:&#34;Utah&#34;" ; Times: 5
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+
+
+End of report.
