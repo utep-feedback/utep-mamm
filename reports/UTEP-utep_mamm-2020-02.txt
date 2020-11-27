@@ -1,0 +1,202 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 93
+Number of records retrieved in searches: 475
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 85
+	Country: Argentina ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 3
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 3
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-27 ; Times: 3
+	Date: 2020-02-06 ; Times: 8
+	Date: 2020-02-07 ; Times: 2
+	Date: 2020-02-04 ; Times: 4
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 2
+	Date: 2020-02-10 ; Times: 9
+	Date: 2020-02-12 ; Times: 26
+	Date: 2020-02-17 ; Times: 2
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-02 ; Times: 4
+	Date: 2020-02-03 ; Times: 7
+	Date: 2020-02-01 ; Times: 7
+	Date: 2020-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cavia" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "class:mammalia catalognumber:1392" ; Times: 2
+	Query: "&#34;Felis catus&#34;" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34; month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 3
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1950" ; Times: 1
+	Query: "&#34;oryctolagus cuniculus&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:Variegatus genus:Otospermophilus hasmedia:1" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1931 year &lt;= 1950" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "specificepithet:cinereus genus:Lasiurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "&#34;Panthera tigris&#34;" ; Times: 3
+	Query: "Panthera tigris tigris" ; Times: 2
+	Query: "specificepithet:aquaticus genus:sylvilagus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34;" ; Times: 3
+	Query: "&#34;camelus dromedarius&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1980" ; Times: 2
+	Query: "catalognumber:832" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1970" ; Times: 1
+	Query: "class:mammalia county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34;" ; Times: 2
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "Antilocapra americana basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Macropus rufus" ; Times: 1
+	Query: "&#34;Lasionycteris noctivagans&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 7
+	Query: "mammals Ruiz nayarit" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 3
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1980" ; Times: 1
+	Query: "urocitellus elegans" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "specificepithet:audubonii genus:sylvilagus stateprovince:&#34;california&#34; preparations:skeleton" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "genus:Lemmiscus county:&#34;Mono&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1986 year &lt;= 1990" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "genus:desmodus stateprovince:&#34;chiapas&#34;" ; Times: 2
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Erythrocebus" ; Times: 1
+	Query: "genus:Notiosorex stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "&#34;Erinaceus europaeus&#34;" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1975 year &lt;= 1980" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1974" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "specificepithet:xanthinus genus:Lasiurus" ; Times: 3
+	Query: "family:tupaiidae" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1950" ; Times: 1
+	Query: "mammals Ruiz mexico" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 1023 download events in this period)
+Total number of records downloaded: 2705
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: France ; Times: 1
+	Country: United States ; Times: 44
+	Country: Guyana ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-24 ; Times: 1
+	Date: 2020-02-25 ; Times: 1
+	Date: 2020-02-26 ; Times: 3
+	Date: 2020-02-27 ; Times: 5
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-21 ; Times: 2
+	Date: 2020-02-04 ; Times: 8
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 1
+	Date: 2020-02-11 ; Times: 4
+	Date: 2020-02-10 ; Times: 4
+	Date: 2020-02-13 ; Times: 2
+	Date: 2020-02-12 ; Times: 10
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 2
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:cavia" ; Times: 1
+	Query: "&#34;Eptesicus fuscus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "&#34;Myotis lucifugus&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:dolichotis" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 2020" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;arkansas&#34;" ; Times: 1
+	Query: "mammals nayarit" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "zapus princeps" ; Times: 1
+	Query: "vntype:specimen order:Primates" ; Times: 1
+	Query: "class:Mammalia county:&#34;Gaines&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Chiroptera" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "sciurus niger" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "vntype:specimen genus:Myotis continent:North America hasmass:1" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "genus:Cratogeomys stateprovince:&#34;Texas&#34; year &gt;= 1700 year &lt;= 1970" ; Times: 1
+	Query: "class:mammalia county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "genus:Peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1981 year &lt;= 1985" ; Times: 1
+	Query: "specificepithet:canadensis genus:castor stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "&#34;Lasionycteris noctivagans&#34; continent:North America hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Notiosorex stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(33.00721728873146,-116.82047633587615))&lt;47696" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "dipodomys merriami" ; Times: 3
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1986 year &lt;= 1990" ; Times: 1
+	Query: "mammal hasmass:1" ; Times: 1
+	Query: "order:Chiroptera hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "genus:Macrotus stateprovince:&#34;California&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1975 year &lt;= 1980" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;Texas&#34; year &gt;= 1971 year &lt;= 1974" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "order:rodentia hassex:1 hasmass:1" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:pennsylvanicus genus:microtus stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "genus:Geomys family:Geomyidae basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
