@@ -1,0 +1,76 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 39
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Bassariscus" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "specificepithet:lepida genus:neotoma county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela county:&#34;Doña Ana&#34;" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:crinitus genus:peromyscus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UTEP" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "lepus alleni" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "axis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 596 download events in this period)
+Total number of records downloaded: 248
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-04 ; Times: 3
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 4
+	Date: 2019-12-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;Louisiana&#34;" ; Times: 2
+	Query: "nyctinomops macrotis" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
