@@ -1,0 +1,173 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 87
+Number of records retrieved in searches: 586
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 50
+	Country: United Kingdom ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 6
+	Date: 2019-11-22 ; Times: 2
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-27 ; Times: 2
+	Date: 2019-11-06 ; Times: 8
+	Date: 2019-11-07 ; Times: 5
+	Date: 2019-11-04 ; Times: 9
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-11 ; Times: 3
+	Date: 2019-11-03 ; Times: 26
+	Date: 2019-11-13 ; Times: 2
+	Date: 2019-11-01 ; Times: 9
+	Date: 2019-11-15 ; Times: 9
+	Date: 2019-11-14 ; Times: 1
+	Date: 2019-11-10 ; Times: 1
+	Date: 2019-11-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Taurotragus oryx zimbabwe" ; Times: 1
+	Query: "Dipodomys spectabilis" ; Times: 1
+	Query: "Ovis aries" ; Times: 2
+	Query: "Cervus elaphus" ; Times: 1
+	Query: "helarctos malayanus" ; Times: 2
+	Query: "specificepithet:troglodytes genus:Pan order:Primates country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 1
+	Query: "Connochaetes taurinus" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Bos primigenius Taurus" ; Times: 2
+	Query: "specificepithet:hispidus genus:Chaetodipus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Erythrocebus patas" ; Times: 4
+	Query: "peccary" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Dama dama" ; Times: 4
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Xerospermophilus spilosoma" ; Times: 1
+	Query: "Dolichotis salinicola" ; Times: 2
+	Query: "catalognumber:1700 institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "castor canadensis texas" ; Times: 1
+	Query: "capra" ; Times: 1
+	Query: "specificepithet:penicillatus genus:chaetodipus county:&#34;imperial&#34; stateprovince:&#34;california&#34; institutioncode:UTEP" ; Times: 1
+	Query: "Panthera pardus" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 3
+	Query: "coypus" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys county:&#34;Catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 1
+	Query: "Urocitellus beldingi" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "Alces alces" ; Times: 4
+	Query: "Aepyceros melampus" ; Times: 6
+	Query: "Oreotragus oreotragus zimbabwe" ; Times: 1
+	Query: "specificepithet:fortidens genus:Myotis country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Baiomys taylori" ; Times: 2
+	Query: "Neotoma leucodon" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Nasua narica" ; Times: 4
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "Callorhinus ursinus" ; Times: 2
+	Query: "specificepithet:flavus genus:Perognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Phacochoerus aethiopicus" ; Times: 2
+	Query: "Peromyscus mexicanus" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "myotis fortidens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 49 (out of 1367 download events in this period)
+Total number of records downloaded: 941
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 45
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-20 ; Times: 6
+	Date: 2019-11-21 ; Times: 1
+	Date: 2019-11-22 ; Times: 5
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-06 ; Times: 5
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 3
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-01 ; Times: 14
+	Date: 2019-11-15 ; Times: 6
+	Date: 2019-11-28 ; Times: 1
+	Date: 2019-11-14 ; Times: 2
+	Date: 2019-11-12 ; Times: 1
+	Date: 2019-11-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:lotor genus:procyon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "genus:Urocyon stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pinal&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:Chaetodipus locality:Tucson" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:nuttallii genus:Sylvilagus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34; year &gt;= 1980" ; Times: 1
+	Query: "Pecari tajacu" ; Times: 1
+	Query: "class:mammalia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Chaetodipus county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:minimus genus:Tamias stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:talpoides genus:Thomomys stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "myotis fortidens" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lateralis genus:Callospermophilus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:baileyi genus:Chaetodipus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; year &gt;= 1969 year &lt;= 1990" ; Times: 1
+	Query: "specificepithet:monticolus genus:Sorex stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "Mus musculus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:palustris genus:Sorex stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;texas&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:erminea genus:Mustela stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "Lasiurus xanthinus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:gapperi genus:Myodes stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "order:rodentia county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:latrans genus:canis" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;Illinois&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Africa" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:quadrivittatus genus:Tamias stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "genus:Chaetodipus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:sciurus" ; Times: 5
+
+
+End of report.
