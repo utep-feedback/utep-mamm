@@ -1,0 +1,136 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 53
+Number of records retrieved in searches: 318
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 32
+	Country: Sweden ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Argentina ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 6
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-06 ; Times: 4
+	Date: 2020-07-29 ; Times: 2
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Conepatus institutioncode:UTEP" ; Times: 2
+	Query: "county:&#34;Lee&#34; stateprovince:&#34;Texas&#34; institutioncode:UTEP" ; Times: 1
+	Query: "locality:grande stateprovince:&#34;oaxaca&#34;" ; Times: 2
+	Query: "nasua nasua" ; Times: 3
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;3120076" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 2
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "Didelphis virginiana texas" ; Times: 2
+	Query: "Didelphis virginiana el paso county texas" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Sylvilagus aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Dama dama" ; Times: 2
+	Query: "genus:Panthera distance(location,geopoint(19.781754752564026,-115.96025528759438))&lt;4977167" ; Times: 1
+	Query: "specificepithet:virginiana genus:didelphis county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "El Paso Zoo" ; Times: 1
+	Query: "genus:Peromyscus locality:Willow creek stateprovince:&#34;New Mexico&#34;" ; Times: 2
+	Query: "alces" ; Times: 1
+	Query: "El Paso Zoo Texas" ; Times: 2
+	Query: "genus:Sus" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 3
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon (zoo OR captive)" ; Times: 1
+	Query: "Noctilio leporinus vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "didelphis virginiana texas el paso" ; Times: 1
+	Query: "Conepatus" ; Times: 1
+	Query: "Didelphis virginiana El Paso county texas" ; Times: 1
+	Query: "Erythrocebus" ; Times: 3
+	Query: "genus:Lynx distance(location,geopoint(5.469554883887501,-88.65234375))&lt;3923916" ; Times: 1
+	Query: "genus:sus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 940 download events in this period)
+Total number of records downloaded: 3847
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Brazil ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-22 ; Times: 3
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-21 ; Times: 6
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 2
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Perognathus longimembris" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "class:mammalia county:&#34;gaines&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "genus:Puma" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
