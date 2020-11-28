@@ -1,0 +1,98 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 518
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 46
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 23
+	Country: Peru ; Times: 1
+	Country: Bolivia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 1
+	Date: 2020-06-08 ; Times: 14
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-06 ; Times: 7
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 12
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-11 ; Times: 13
+	Date: 2020-06-03 ; Times: 8
+	Date: 2020-06-10 ; Times: 8
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-12 ; Times: 7
+	Date: 2020-06-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "brava" ; Times: 1
+	Query: "UTEP 5750" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "canadensis Texas" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "specificepithet:mogollonensis genus:microtus county:&#34;catron&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "specificepithet:arenarius genus:geomys county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Lasiurus borealis (skin) AND (Mexico) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chinchilla chinchilla" ; Times: 3
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Neotoma lepida" ; Times: 8
+	Query: "Pipistrellus hesperus texas" ; Times: 2
+	Query: "&#34;Spilogale gracilis&#34; &#34;New Mexico&#34;" ; Times: 3
+	Query: "Geomys arenarius" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Nasua nasua" ; Times: 3
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 16
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 474 download events in this period)
+Total number of records downloaded: 980
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vicugna vicugna" ; Times: 1
+	Query: "Peromyscus leucopus" ; Times: 2
+	Query: "nasua nasua" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Vicugna vicugna" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+
+
+End of report.
