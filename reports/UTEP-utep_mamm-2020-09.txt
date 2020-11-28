@@ -1,0 +1,169 @@
+Report for Institution Code UTEP, Resource utep_mamm
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 123
+Number of records retrieved in searches: 499
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 84
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 21
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Japan ; Times: 2
+	Country: South Korea ; Times: 3
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 8
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-07 ; Times: 6
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-21 ; Times: 5
+	Date: 2020-09-22 ; Times: 19
+	Date: 2020-09-25 ; Times: 3
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-26 ; Times: 5
+	Date: 2020-09-29 ; Times: 10
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-14 ; Times: 7
+	Date: 2020-09-15 ; Times: 2
+	Date: 2020-09-16 ; Times: 3
+	Date: 2020-09-17 ; Times: 9
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-11 ; Times: 2
+	Date: 2020-09-12 ; Times: 6
+	Date: 2020-09-13 ; Times: 16
+	Date: 2020-09-18 ; Times: 10
+	Date: 2020-09-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Nasua nasua" ; Times: 3
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 2
+	Query: "scientificname:Oryzomys alfaroi" ; Times: 1
+	Query: "genus:leptonycteris hasmedia:1" ; Times: 4
+	Query: "nasua nasua" ; Times: 3
+	Query: "scientificname:Pan Troglodytes" ; Times: 3
+	Query: "cynomys ludovicianus" ; Times: 14
+	Query: "choeroniscus" ; Times: 1
+	Query: "scientificname:Reithrodontomys megalotis" ; Times: 1
+	Query: "sylvilagus floridanus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "El Paso Zoo" ; Times: 2
+	Query: "scientificname:Liomys irroratus" ; Times: 2
+	Query: "Sturnira ludovici" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "cavia porcellus" ; Times: 5
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "scientificname:Pan troglodytes" ; Times: 30
+	Query: "scientificname:Peromyscus aztecus" ; Times: 1
+	Query: "Notiosorex crawfordi crawfordi stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "ateles" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "specificepithet:Bison genus:Bison stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sciuridae vntype:specimen hasmedia:1" ; Times: 1
+	Query: "820 genus:mus" ; Times: 2
+	Query: "specificepithet:nasutus genus:Peromyscus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "specificepithet:nasutus genus:Peromyscus county:&#34;el paso&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "canis county:&#34;travis&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Pan troglodytes" ; Times: 2
+	Query: "scientificname:Peromyscus difficilis" ; Times: 1
+	Query: "Sylvilagus aquaticus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae order:Artiodactyla (Dentary OR Jaw OR Mandible OR Skull) hasmedia:1" ; Times: 1
+	Query: "sigmodon vntype:specimen hasmedia:1" ; Times: 1
+	Query: "vntype:specimen family:Cervidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "Delicias" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "vntype:specimen family:Tayassuidae order:Artiodactyla hasmedia:1" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; country:&#34;united states&#34; (Canis )" ; Times: 1
+	Query: "lemmiscus curtatus mono" ; Times: 1
+	Query: "Antrozous pallidus pallidus county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:Evotis genus:Myotis stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Mesocricetus auratus" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 2
+	Query: "Didelphis virginiana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "scientificname:Peromyscus pectoralis" ; Times: 2
+	Query: "specificepithet:americanus genus:ursus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "specificepithet:cuniculus genus:Oryctolagus" ; Times: 1
+	Query: "specificepithet:rotundus genus:Desmodus hasmedia:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "scientificname:Panthera leo" ; Times: 1
+	Query: "specificepithet:lervia genus:Ammotragus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 976 download events in this period)
+Total number of records downloaded: 5434
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 36
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 3
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-18 ; Times: 6
+	Date: 2020-09-09 ; Times: 6
+	Date: 2020-09-27 ; Times: 1
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "specificepithet:musculus genus:mus lengthtype:total length hasmass:1 haslength:1" ; Times: 1
+	Query: "Peromyscus maniculatus hasmass:1" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "specificepithet:lupus arctos genus:canis" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 2
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "vntype:specimen family:Cervidae order:Artiodactyla (Dentary OR Jaw OR Mandible) hasmedia:1" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+
+
+End of report.
